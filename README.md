@@ -289,7 +289,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-https://github.com/zulaeha168/Tugas-UTS-Fibonacci/issues/1
+https://github.com/zulaeha168/Tugas-UTS-Fibonacci/assets/130324650/37918283-f214-4c3e-97a7-1f102a82bc73
 
 
 
